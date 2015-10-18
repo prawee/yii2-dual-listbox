@@ -1,0 +1,21 @@
+{
+    "name": "prawee/yii2-dual-listbox",
+    "description": "Dual Listbox Extension for Yii2 ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","listbox","duallistbox"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "prawee\\widgets\\duallistbox\\": ""
+        }
+    }
+}
