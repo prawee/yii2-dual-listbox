@@ -28,4 +28,6 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \prawee\widgets\duallistbox\AutoloadExample::widget(); ?>```
+<?= \prawee\widgets\duallistbox\DualListbox::widget(); ?>
+
+```
